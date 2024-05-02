@@ -31,19 +31,19 @@ We utilized 3 ultrasonic sensors to enhance obstacle avoidance capabilities from
    - Trig Pin: Connected to Arduino digital pin A2
    - Echo Pin: Connected to Arduino digital pin A3
 
-## L293R Shield Connections
+### L293R Shield Connections
 - Motor 1 (Front Left): Connected to L293R Shield motor port 1
 - Motor 2 (Front Right): Connected to L293R Shield motor port 2
 - Motor 3 (Back Left): Connected to L293R Shield motor port 3
 - Motor 4 (Back Right): Connected to L293R Shield motor port 4
 
-## Battery Holder
+### Battery Holder
 - Connected to power the Arduino Uno and L293R Shield
 
-## Switch Button
+### Switch Button
 - Connected to control the power supply to the Arduino Uno and L293R Shield
 
-## Ultrasonic Sensor Holder
+### Ultrasonic Sensor Holder
 - Used to mount the ultrasonic sensors securely on the car chassis
 
 ## Result 
